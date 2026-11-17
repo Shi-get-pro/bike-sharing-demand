@@ -66,7 +66,7 @@ Python · pandas · NumPy · scikit-learn · matplotlib · seaborn · Jupyter / 
 
 ```bash
 pip install -r requirements.txt
-jupyter notebook bike_sharing_demand.ipynb
+jupyter notebook bike_sharing.ipynb
 ```
 
 Or open the notebook in Google Colab.
